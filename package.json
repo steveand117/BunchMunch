@@ -1,0 +1,20 @@
+{
+  "name": "BunchMunch",
+  "version": "1.0.0",
+  "description": "Our mission is to increase the time you spend eating with others, because we value the opportunity meals give us to talk and connect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveand117/BunchMunch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveand117/BunchMunch/issues"
+  },
+  "homepage": "https://github.com/steveand117/BunchMunch#readme"
+}
